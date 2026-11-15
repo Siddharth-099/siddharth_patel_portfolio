@@ -1,19 +1,34 @@
-SIDDHARTH PATEL PORTFOLIO
+👋 Hi, I'm Siddharth Patel
 
-Files:
-- index.html: portfolio content
-- style2.css: responsive styling
-- script.js: mobile navigation, theme toggle, active navigation and email form
+Java Full Stack Developer | MCA Student | IT Professional
 
-HOW TO RUN:
-1. Keep all three files in the same folder.
-2. Open index.html in your browser (or use VS Code Live Server).
+Welcome to my GitHub profile! I'm a passionate and enthusiastic fresher interested in web development and the IT industry.
 
-BEFORE PUBLISHING, UPDATE:
-1. Replace all href="#" placeholders with your actual GitHub, LinkedIn, repository and live-demo URLs.
-2. Check that siddharth6025@gmail.com is the email address you want to publish.
-3. Verify the BCA/MCA and PrintDeed internship wording/dates.
-4. Update project descriptions so they only claim features you have actually implemented.
-5. If you want a profile photo, add your image and insert an <img> in the hero section.
+👨‍🎓 About Me
 
-The contact form opens the visitor's default email application. It does not send messages directly from a server.
+- 🎓 Completed Bachelor of Computer Applications (BCA).
+- 📚 Currently pursuing Master of Computer Applications (MCA).
+- 💻 Completed Java Full Stack Development training.
+- 🌱 Continuously learning and improving my technical skills.
+- 🎯 Looking for an opportunity to start my professional career in IT.
+
+🛠️ Technical Skills
+
+- Programming: Java, JavaScript
+- Frontend: HTML, CSS, React.js
+- Database: SQL
+- Other: Website Development
+
+💼 Career Objective
+
+To start my career in the IT industry, apply my technical knowledge, gain practical experience, and contribute to an organization's growth while continuously improving my skills.
+
+🤝 Connect With Me
+
+- Name: Siddharth Patel
+- Location: Gujarat, India
+- Education: MCA (Pursuing)
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
